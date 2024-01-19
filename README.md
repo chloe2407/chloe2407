@@ -29,7 +29,7 @@ Currently an undergraduate student at the University of Toronto specializing in 
 - :telescope: Previously interned at Provincial Health Services Authority, where I built the mockup for a patient mobile app using Flutter and Firebase. It was presented during BC Kidney Days, and has an anticipated release in early Spring 2024 with some features.
 - Interested in utilizing technology to do social good for tomorrow's future. Thus far, I have explored technological intersections with Education and Healthcare fields.
 - Growing interest in <a href="https://medium.com/@chloelam2407/ive-always-been-fascinated-by-artificial-intelligence-38717afbc3f0" target="_blank" rel="noopener noreferrer">AI/ML</a>. I am always looking for opportunities to learn more!
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chloe-lam-2407/) or chloelam2407@gmail.com
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chloe-lam-2407/){:target="_blank" rel="noopener"} or chloelam2407@gmail.com
 
 ---
 
